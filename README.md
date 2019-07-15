@@ -12,4 +12,4 @@ it contour up those new objects found with a green sqare
 
 
 # DEMO 
-![](ezgif.com-optimize.gif.gif)
+![](ezgif.com-optimize.gif)
